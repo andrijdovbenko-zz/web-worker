@@ -1,0 +1,16 @@
+{
+  "name": "web-worker",
+  "version": "1.0.0",
+  "description": "test web-worker page",
+  "main": "main.js",
+  "scripts": {
+    "start:dev": "webpack-dev-server"
+  },
+  "author": "dar",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.31.0",
+    "webpack-cli": "^3.3.2",
+    "webpack-dev-server": "^3.4.1"
+  }
+}
